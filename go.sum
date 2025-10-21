@@ -1,0 +1,6 @@
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/raye17/subDemo v0.0.0-20251021033630-31536161553a h1:4LYKrlvfttqrAoYRZFKtCD4Ixjc79pS8lFR+hzy3ee8=
+github.com/raye17/subDemo v0.0.0-20251021033630-31536161553a/go.mod h1:EtrFyAPrK6bQglsqTCO/G+YMaSCdgFcAQXDMk6mTA+s=
+github.com/raye17/subDemo v0.0.0-20251021053001-cbc817e1dad0 h1:tHh3g8JhIgV0I3Cxx6MIdWyUzUSoV0BC49vmYjucZ0w=
+github.com/raye17/subDemo v0.0.0-20251021053001-cbc817e1dad0/go.mod h1:EtrFyAPrK6bQglsqTCO/G+YMaSCdgFcAQXDMk6mTA+s=

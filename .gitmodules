@@ -1,0 +1,4 @@
+[submodule "subDemos"]
+	path = subDemos
+	url = https://github.com/raye17/subDemo.git
+	branch = master
